@@ -33,5 +33,8 @@ def main ():
     print("6% Tax: $" , taxCost)
     print("--------")
     print("Total: $" , subtotal)
+    print(stars , "\n")
     print(stars)
+    print("THANK YOU FOR SHOPPING WITH US")
+    print(stars , "\n")
 main()
